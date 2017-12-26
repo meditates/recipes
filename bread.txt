@@ -1,0 +1,14 @@
+ingredient:
+1 flour
+2 egg
+3 suger
+4 salt
+5 butter
+
+tool:
+bread machine
+
+time
+
+3.5 hours
+
